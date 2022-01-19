@@ -1,0 +1,6 @@
+<beans>
+	<bean id="systemUser" class="beans.SysUser">
+		<property name="username" value="weijian"></property>
+		<property name="password" value="123456"></property>
+	</bean>
+</beans>
